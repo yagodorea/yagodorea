@@ -42,11 +42,6 @@ In reality, I don't think _knowing languages_ is the main role of a good softwar
   - Distributed systems that don't tie a knot on our heads
   - Event-driven systems that strive for simplicity
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yagodorea/yagodorea)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yagodorea.yagodorea)
-![GitHub User's stars](https://img.shields.io/github/stars/yagodorea?style=social)
-![GitHub followers](https://img.shields.io/github/followers/yagodorea?style=social)
-
 <!--
 **yagodorea/yagodorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
